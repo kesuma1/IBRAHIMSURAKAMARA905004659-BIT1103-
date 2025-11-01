@@ -1,4 +1,4 @@
-![PLAYERS PAGE S](https://github.com/user-attachments/assets/311941d4-e433-4b62-8d06-5ab62b02f81b)![HOME PAGE S](https://github.com/user-attachments/assets/e2c2824a-03b6-4a89-9b54-170597a389d8)# IBRAHIMSURAKAMARA905004659-BIT1103-
+# IBRAHIMSURAKAMARA905004659-BIT1103-
 
 # Web Design Assingnment 1
 
