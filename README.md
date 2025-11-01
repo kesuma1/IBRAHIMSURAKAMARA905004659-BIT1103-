@@ -3,32 +3,34 @@
 # Web Design Assingnment 1
 
 ## Home Page Sketch And wirefreme
-![Up![HOME PAGE ](https://github.com/user-attachments/assets/1c426446-47ad-49ef-934c-701adf577e30)
-loading HOME PAGE S.jpg…]()
+![HOME PAGE ](https://github.com/user-attachments/assets/3854a838-3213-4676-825a-b7503789728f)
+![HOME PAGE S](https://github.com/user-attachments/assets/b4a7e46d-8335-4b28-a17d-fc03f7501f3d)
 
 
 
-## Player page Sketch And Wirefreme
-![PLAYERS PAGE S](https://github.com/user-attachments/assets/8711c3ca-afbf-4b77-b029-0d5eba563de6)
-![PLAYER PAGE](https://github.com/user-attachments/assets/6d1751d1-2c77-49f9-aec8-b74818cd32ab)
+
+## Playe![PLAYER PAGE](https://github.com/user-attachments/assets/6f3bc72f-4efb-4a4f-a21d-7428c85f3b97)
+r page Sketch And Wirefreme
+![PLAYERS PAGE S](https://github.com/user-attachments/assets/bb74fdec-5931-4b32-a94b-05075bea346f)
 
 
 
 ## Match Page Sketch And Wirefreme
-![MATCH PAGE S](https://github.com/user-attachments/assets/b6a2d2c1-c409-4748-93c4-79cbb33039ac)
-![MATCH PAGE ](https://github.com/user-attachments/assets/1a66dd1c-0cb9-41b1-99a9-ff93f7475617)
+![MATCH PAGE ](https://github.com/user-attachments/assets/8e18a178-3c64-4813-8a60-51a9e521a84c)
+![MATCH PAGE S](https://github.com/user-attachments/assets/52fb5128-ef6b-43b7-aeb1-96c2f2e38727)
 
 
 
-## About Page Sketch And Wirefreme
-![ABOUT PAGE S](https://github.com/user-attachments/assets/2d697b0b-4b3b-4fb2-a2d8-1b4bab72180a)
-![ABOUT PAGE ](https://github.com/user-attachments/assets/921f13bf-6451-4d6e-9ed7-3f6a18343895)
+
+## Abou![ABOUT PAGE ](https://github.com/user-attachments/assets/84e30a5d-f56e-4b59-b2c6-349730e57371)
+t Page Sketch And Wirefreme
+![ABOUT PAGE S](https://github.com/user-attachments/assets/e01956ba-ed74-40ab-8a4c-becc4bc08ae5)
 
 
 
 ## Contect Page Sketch And Wirefreme
-![CONTACT PAGE S](https://github.com/user-attachments/assets/b0878e02-0741-436f-9ad9-e3134346fcaa)
-![CONTACT PAGE](https://github.com/user-attachments/assets/c1b04a58-f48e-4f0b-ae20-ec81e8923640)
+![CONTACT PAGE](https://github.com/user-attachments/assets/56b601a1-09ac-4c35-aebc-9d181b91dca5)
+![CONTACT PAGE S](https://github.com/user-attachments/assets/65698538-885a-4c0f-8328-06d79aa99a3b)
 
 
 
