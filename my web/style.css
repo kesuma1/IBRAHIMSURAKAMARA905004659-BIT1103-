@@ -1,0 +1,344 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header & Navigation */
+header {
+  background-color: #004080; 
+  color: white;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+
+.logo img {
+  height: 50px;
+  margin-right: 10px;
+  border-radius: 50%; 
+}
+
+nav ul {
+  display: flex;
+  gap: 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 10px;
+  transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+/* Main Content Area Styling */
+main {
+  padding-top: 80px; 
+}
+
+.page-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 50px 0;
+  color: #004080;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #004080;
+}
+
+/* Welcome/Hero Section */
+.welcome {
+  background: linear-gradient(rgba(0,0,0,0.4)), url(./images/Siaka-Steven-Stadium.jpg) no-repeat center/cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+}
+
+.welcome-content {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.welcome-content h2 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.welcome-content p {
+  font-size: 1.2rem; 
+  margin-bottom: 15px;
+}
+
+.welcome-content button {
+  padding: 10px 20px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.welcome-content button:hover {
+  background-color: darkred;
+}
+
+/* Video Stream Section */
+.video-stream-section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.video-stream-section h3 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #004080;
+}
+
+.video-stream-section iframe {
+    max-width: 100%;
+    height: 315px;
+}
+
+
+/* Latest News Section */
+.latest-news {
+  padding: 60px 0;
+  background-color: #f0f8ff; 
+}
+
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  text-align: center;
+}
+
+.news-item {
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.news-item img {
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+/* Players Page Styles */
+.player-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px 0;
+}
+
+.player-card {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.player-card img {
+  width: 100%; 
+  height: 250px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+/* Matches Page Styles */
+.recent-matches, .upcoming-matches {
+  background-color: #ffffff;
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+.match-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.match-card {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  border-radius: 5px;
+}
+
+.match-card p {
+    margin: 5px 0;
+}
+
+.more-button {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.more-button button {
+  padding: 10px 20px;
+  background-color: #004080;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* About Page Styles */
+.about-section, .mission-section, .history-section {
+  background-color: #ffffff;
+  padding: 20px 0;
+  margin-bottom: 30px;
+}
+
+.about-section img,
+.mission-section img,
+.history-section img {
+  width: 150px; 
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  float: left;
+  margin-right: 20px;
+}
+
+.about-section p,
+.mission-section p,
+.history-section p {
+  font-size: 1.1rem; 
+  line-height: 1.6;
+  color: #333;
+  overflow: auto; 
+  padding-bottom: 20px;
+}
+
+.mission-section h3, .history-section h3 {
+    font-size: 1.8rem;
+    color: #004080;
+    margin-bottom: 10px;
+}
+
+/* Contact Page Styles */
+.contact-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 30px;
+  padding-bottom: 40px;
+}
+
+.contact-form, .contact-map {
+  flex: 1;
+  min-width: 300px; 
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.contact-form h2, .contact-map h2 {
+  color: #004080;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+}
+
+.contact-form label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.contact-form button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+  background-color: #003366;
+}
+
+/* Footer */
+footer {
+  background-color: #004080;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 0.9rem;
+  width: 100%;
+}
+
+footer a {
+    color: white;
+    text-decoration: underline;
+}
